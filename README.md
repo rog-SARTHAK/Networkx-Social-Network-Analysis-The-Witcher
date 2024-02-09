@@ -7,3 +7,5 @@ I will create a Social Network of characters using Network Analytics. We will cr
 - What are the most important characters ?
 - How their importance evolves over time ?
 - Main communities in the network ?
+
+For named entity recognition we will be using spacy NLP library, for analysing the network we will use networkx and for visualization we will use gravis.
